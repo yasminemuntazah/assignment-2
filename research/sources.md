@@ -15,10 +15,10 @@ Research Focus
 - Information Retrieval
 
 LinkedIn
-[https://www.linkedin.com/in/michaelking](https://www.linkedin.com/in/michaelkingphilly/)
+(https://www.linkedin.com/in/michaelkingphilly/)
 
 YouTube
-[https://www.youtube.com/results?search_query=Mike+King+SEO](https://www.youtube.com/watch?v=p0XPAM-kQUk&t=18s)
+(https://www.youtube.com/watch?v=p0XPAM-kQUk&t=18s)
 
 Posting content: 24/2/26
 
@@ -39,7 +39,8 @@ Research Focus
 - AI Search
 
 LinkedIn
-https://www.linkedin.com/in/aleyda/
+[https://www.linkedin.com/in/aleyda/]
+(https://www.linkedin.com/feed/update/urn:li:activity:7480154637799710720/)
 
 Posting content: 7/7/26
 
@@ -65,8 +66,7 @@ Research Focus
 https://www.linkedin.com/in/lilyraynyc/
 
 YouTube
-https://www.youtube.com/results?search_query=Lily+Ray+SEO
-](https://www.linkedin.com/in/lily-ray-44755615/)
+(https://www.linkedin.com/in/lily-ray-44755615/)
 
 Posting content: 1/7/26
 
@@ -94,6 +94,8 @@ Research Focus
 LinkedIn
 https://www.linkedin.com/in/kevinindig/
 
+https://www.linkedin.com/posts/kevinindig_a-benchmark-only-earns-ai-citations-where-activity-7480191394486243328-_TVs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEUq6sQBir8mnDVOy-x072UvcA2XoSszkG4
+
 Posting content: 8/7/26
 
 ---
@@ -112,10 +114,10 @@ Research Focus
 - Editorial SEO
 - SaaS SEO
 
-LinkedIn
-https://www.linkedin.com/in/rosshudgens/
+Youtube
+https://www.youtube.com/watch?v=or2QWt5Sw9A&t=2s
 
-Posting content: 7/7/26
+Posting content: 24/6/26
 
 ---
 
@@ -134,10 +136,10 @@ Research Focus
 - Crawling
 - Indexing
 
-LinkedIn
-https://www.linkedin.com/in/patrickstox/
+Youtube
+(https://www.youtube.com/watch?v=GjLNHQQzdCw)
 
-Posting content: 21/11/25
+Posting content: 13/6/26
 
 ---
 
@@ -156,9 +158,9 @@ Research Focus
 - Knowledge Graph
 
 LinkedIn
-https://www.linkedin.com/in/koraytugberkgubur/
+(https://www.youtube.com/watch?v=3ncQHJuQaDM)
 
-Posting content: 8/7/26
+Posting content: 6/7/26
 
 ---
 
@@ -175,10 +177,9 @@ Research Focus
 - Automation
 - Technical SEO
 
-LinkedIn
-https://www.linkedin.com/in/jamie-indigo/
+Youtube (https://www.youtube.com/watch?v=uRQSslMa5nw)
 
-Posting content: 2/7/26
+Posting content: 16/2/26
 
 
 ---
@@ -198,9 +199,9 @@ Research Focus
 - Entity SEO
 
 LinkedIn
-https://www.linkedin.com/in/cindykrum/
+(https://www.linkedin.com/posts/cindykrum_searchengineoptimization-digitalmarketing-activity-7480167853397106688-OhAT?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEUq6sQBir8mnDVOy-x072UvcA2XoSszkG4)
 
-Posting content: 3/7/26
+Posting content: 7/7/26
 
 
 ---
@@ -222,7 +223,7 @@ Research Focus
 - Organic Growth
 
 LinkedIn
-https://www.linkedin.com/in/elischwartz/
+(https://www.linkedin.com/posts/schwartze_programmatic-vs-editorial-seo-in-an-aeo-world-activity-7479523231507587072-GeHN?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEUq6sQBir8mnDVOy-x072UvcA2XoSszkG4)
 
 Posting content: 5/7/26
 
