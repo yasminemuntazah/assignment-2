@@ -1,6 +1,9 @@
 Title: How SEO & GEO Work Together - Do Great GEO Without Destroying Your SEO
+
 Link : https://www.linkedin.com/feed/update/urn:li:activity:7477392626749546496/
+
 Posting Date : 1/7/26
+
 ### **Transcript**
 
 This year's summer speaking tour has come to an end, with presentations at **Athens SEO, Croatia SEO Summit, CAMPIXX Berlin, Peec AI,** and **Search 'n Stuff London**.
